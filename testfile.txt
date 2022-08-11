@@ -1,0 +1,8 @@
+test@flydubai.com
+test1@flydubai.com
+test2@flydubai.com 
+test3@flydubai.com
+test4#flydubai.com 
+test5@flydubai.com 
+test5@flydubai.com 
+test6@flydubai.com 
